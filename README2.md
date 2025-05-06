@@ -18,7 +18,7 @@ python -m venv venv
 Or a PyCharm asks you to create an interpreter using the requirements.txt file (Click Yes)
 
 # Activate the virtual environment
-# On Windows:
+# On Window
 ```bash
 venv\Scripts\activate
 ```
